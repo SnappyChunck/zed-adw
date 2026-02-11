@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Foundry Init",
+    "command": "foundry",
+    "args": ["init"],
+  },
+  {
+    "label": "Foundry Build",
+    "command": "foundry",
+    "args": ["build"],
+  },
+  {
+    "label": "Foundry Build and Run",
+    "command": "foundry",
+    "args": ["run"],
+  },
+]
