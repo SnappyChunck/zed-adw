@@ -11,7 +11,7 @@
   },
   {
     "label": "Foundry Build and Run",
-    "command": "foundry",
+    "command": "WAYLAND_DISPLAY=wayland-0 GDK_BACKEND=wayland foundry",
     "args": ["run"],
   },
 ]
